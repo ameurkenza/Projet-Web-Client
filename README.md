@@ -27,6 +27,12 @@ Le pied de chaque page contient un lien vers ce dépôt GitHub, assurant la tran
 
 ## Note 
 
-Dans ce projet, notre équipe de trois personnes a développé un site web axé sur le vin. Olivier Roberge était responsable de la conception de la page des événements et de la page de contact, facilitant la communication et l'accès aux informations pour les utilisateurs. Alexi Charland a créé le menu et la page de confirmation, optimisant l'expérience utilisateur dans la sélection et la validation des choix de vin, tout en collaborant avec Olivier sur la page "À propos". Kenza a élaboré les autres pages du site, garantissant une cohérence et une esthétique attrayante. Ensemble, nous avons utilisé des technologies web avancées pour réaliser un site fonctionnel et esthétiquement plaisant, reflétant notre compréhension des meilleures pratiques de développement collaboratif.
 
 
+Ce site a été créé par trois personnes : Kenza, Olivier et Alexie.
+
+- Kenza s'est occupée du style général du site et a confectionné les pages "Accueil" et "À propos".
+- Alexie a pris en charge la page "Menu" et la page "Contact".
+- Olivier s'est chargé des pages "Réservation" et "Événement".
+
+Tous les trois, nous avons apporté des retouches aux autres pages au fur et à mesure de l'avancement du projet, en collaborant étroitement pour assurer une expérience utilisateur cohérente et agréable.
