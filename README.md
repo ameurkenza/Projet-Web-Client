@@ -1,4 +1,4 @@
-# Restaurant Roses&Wine
+# Restaurant Wine&Roses
 
 Bienvenue sur le dépôt officiel du site web du restaurant Roses&Wine. Notre site est une porte d'entrée numérique pour nos invités désireux d'explorer le voyage savoureux qui les attend dans notre établissement.
 
